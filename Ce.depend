@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1695442670 source:f:\projects\coc++\ce\main.cpp
+	"main.h"
+
+1695442415 f:\projects\coc++\ce\main.h
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<ctype.h>
+	<string>
+	<map>
+	<algorithm>
+	<functional>
+	<vector>
+	<stdint.h>
+	<stdio.h>
+	<time.h>
+
+1695252905 source:f:\projects\coc++\ce\rc.rc
+
